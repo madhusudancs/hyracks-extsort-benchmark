@@ -69,7 +69,7 @@
             <configuration>
               <programs>
                 <program>
-                  <mainClass>edu.uci.ics.hyracks.Driver</mainClass>
+                  <mainClass>edu.uci.ics.hyracks.extsort_benchmark.Driver</mainClass>
                   <name>benchmark</name>
                 </program>
               </programs>
@@ -158,7 +158,7 @@
   <repositories>
     <repository>
       <id>hyracks-public</id>
-      <url>file:///home/madhu/.m2/repository/</url>
+      <url>file:///home/madhusudancs/.m2/repository/</url>
     </repository>
     <repository>
       <id>jboss-public</id>
